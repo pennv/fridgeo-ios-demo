@@ -1,6 +1,8 @@
 # Fridgeo iOS Client
 Source code of the published iOS app Fridgeo, powered by NodeJS backend and MongoDB.
 
+(for security reason, the original repo is set to private)
+
 Followed MVC pattern.
 No storyboard used (100% pure code).
 
